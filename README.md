@@ -192,12 +192,12 @@ python scripts/predict.py \
 | Parameter | Default | Description |
 |-----------|---------|-------------|
 | `d_model` | 1152 | Hidden dimension size |
-| `dropout` | 0.3 | Dropout probability |
+| `dropout` | 0.2 | Dropout probability |
 | `freeze_esm` | True | Freeze ESM-C parameters |
 | `ldam_max_m` | 0.5 | LDAM maximum margin |
-| `ldam_s` | 30.0 | LDAM logit scaling factor |
+| `ldam_s` | 20.0 | LDAM logit scaling factor |
 | `lr` | 1e-4 | Learning rate |
-| `batch_size` | 8 | Training batch size |
+| `batch_size` | 48 | Training batch size |
 
 ### Loss Function
 
