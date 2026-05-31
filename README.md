@@ -38,7 +38,7 @@ Classification Head (3*d_model → 512 → 256 → num_classes)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/plm_ripp_refactored_release.git
+git clone https://github.com/helixDATA996/PLM-RiPP.git
 cd plm_ripp_refactored_release
 
 # Install dependencies
@@ -218,11 +218,7 @@ The model uses **LDAM (Label-Distribution-Aware Margin) Loss** to handle class i
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{plm_ripp,
-  title = {PLM-RiPP: Protein Language Model for RiPP Classification},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/plm_ripp_refactored_release}
+
 }
 ```
 
