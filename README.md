@@ -44,8 +44,6 @@ cd plm_ripp_refactored_release
 # Install dependencies
 pip install -r requirements.txt
 
-# Install in development mode (optional)
-pip install -e .
 ```
 
 ## Quick Start
@@ -56,9 +54,9 @@ pip install -e .
 python scripts/train.py \
     --train_csv data/train.csv \
     --valid_csv data/valid.csv \
-    --batch_size 8 \
+    --batch_size 48 \
     --lr 1e-4 \
-    --num_epochs 10 \
+    --num_epochs 50 \
     --save_path models/best_model.pt \
     --device cuda
 ```
@@ -219,7 +217,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 
-}
+
 ```
 
 ## License
@@ -233,4 +231,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact [your.email@example.com](mailto:your.email@example.com).
+For questions or issues, please open an issue on GitHub or contact [1351771272@qq.com].
