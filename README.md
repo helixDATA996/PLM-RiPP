@@ -39,7 +39,7 @@ Classification Head (3*d_model → 512 → 256 → num_classes)
 ```bash
 # Clone the repository
 git clone https://github.com/helixDATA996/PLM-RiPP.git
-cd plm_ripp_refactored_release
+cd PLM-RiPP
 
 # Install dependencies
 pip install -r requirements.txt
