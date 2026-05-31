@@ -15,7 +15,7 @@ A deep learning framework for classifying Ribosomally synthesized and Post-trans
 ```
 Input Sequences
     ↓
-ESM-C Embeddings (frozen/trainable)
+ESM-C Embeddings
     ↓
 LayerNorm → FFN → LayerNorm
     ↓
