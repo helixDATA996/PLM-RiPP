@@ -62,6 +62,9 @@ python scripts/train.py \
 ```
 
 ### Prediction
+First, download the pretrained model checkpoint and place it in the `models/` directory.
+
+📥 [Download checkpoint](https://drive.google.com/drive/folders/1J9bAadIiJmuFiZuqmivWgv7DbwbieznW?usp=drive_link)
 
 ```bash
 # Predict on FASTA file
