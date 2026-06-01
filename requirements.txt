@@ -1,0 +1,12 @@
+# Core scientific stack
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2
+tqdm>=4.64
+
+# Deep learning stack. Install the CUDA-specific PyTorch build that matches your system.
+torch>=2.1
+
+# ESM-C package used by PLM-RiPP. The exact package name may depend on the
+# installation source used by EvolutionaryScale in your environment.
+esm>=3.0.0
