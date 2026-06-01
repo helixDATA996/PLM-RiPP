@@ -41,14 +41,14 @@ Classification Head (3*d_model → 512 → 256 → num_classes)
 git clone https://github.com/helixDATA996/PLM-RiPP.git
 cd PLM-RiPP
 
-#Then install torch
-# Example for CUDA 12.4 (most common)
+Install PyTorch (choose one according to your system)
+# For CUDA 12.4 (recommended)
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
 # For CPU only
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
-# Install dependencies
+# Install other dependencies
 pip install -r requirements.txt
 
 ```
