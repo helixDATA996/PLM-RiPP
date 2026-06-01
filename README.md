@@ -123,7 +123,7 @@ seq2,MKNILKILSLKFTSNICTRMALSVSASACHWSAYQPEEPKCLRDIKNH
 ## Project Structure
 
 ```
-plm_ripp_refactored_release/
+PLM-RiPP/
 ├── README.md                    # This file
 ├── LICENSE                      # License file
 ├── requirements.txt             # Python dependencies
