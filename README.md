@@ -119,7 +119,6 @@ seq2,MKNILKILSLKFTSNICTRMALSVSASACHWSAYQPEEPKCLRDIKNH
 plm_ripp_refactored_release/
 ├── README.md                    # This file
 ├── LICENSE                      # License file
-├── setup.py                     # Installation configuration
 ├── requirements.txt             # Python dependencies
 ├── .gitignore                   # Git ignore rules
 ├── data/                        # Data directory
