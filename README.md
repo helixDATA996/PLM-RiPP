@@ -134,7 +134,6 @@ PLM-RiPP/
 │   └── README.md               # Data documentation
 ├── models/                      # Model checkpoints
 │   ├── best_model_ripp.pt      # Pre-trained model
-│   └── README.md               # Model documentation
 ├── src/                         # Source code
 │   └── plm_ripp/
 │       ├── __init__.py         # Package initialization
