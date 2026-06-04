@@ -6,7 +6,7 @@ python scripts/predict.py \
     --checkpoint models/best_model_ripp.pt \
     --input data/test_sequences.fasta \
     --output_csv predictions.csv \
-    --batch_size 8 \
+    --batch_size 48 \
     --device cuda
 
 # Predict on a CSV file (must have 'sequence' column)
