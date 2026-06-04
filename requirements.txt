@@ -7,3 +7,6 @@ tqdm>=4.64
 # ESM-C package used by PLM-RiPP. The exact package name may depend on the
 # installation source used by EvolutionaryScale in your environment.
 esm>=3.0.0
+
+# Workaround: esm package missing httpx in its dependency declaration
+httpx
