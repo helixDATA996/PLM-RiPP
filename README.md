@@ -220,14 +220,6 @@ The model uses **LDAM (Label-Distribution-Aware Margin) Loss** to handle class i
 - Gives equal weight to all classes regardless of support
 - Used for model selection and early stopping
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-
-
-```
 
 ## License
 
