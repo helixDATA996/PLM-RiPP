@@ -1,4 +1,4 @@
-PLM-RiPP: A protein language model-based framework for long-tailed multi-class 
+## PLM-RiPP: A protein language model-based framework for long-tailed multi-class 
 classification of RiPP precursors
 
 A deep learning framework for classifying Ribosomally synthesized and Post-translationally modified Peptides (RiPPs) using ESM-C protein language model embeddings.
