@@ -1,4 +1,4 @@
-# PLM-RiPP: Protein Language Model for RiPP Classification
+PLM-RiPP: A Protein Language Model for RiPP Discovery and Classification
 
 A deep learning framework for classifying Ribosomally synthesized and Post-translationally modified Peptides (RiPPs) using ESM-C protein language model embeddings.
 
